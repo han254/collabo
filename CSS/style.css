@@ -11,3 +11,7 @@ h1{
 }
 p{ font-size: medium;
 } 
+.container{
+    color: purple;
+    text-align: center;
+}
